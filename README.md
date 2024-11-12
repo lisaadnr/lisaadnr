@@ -1,10 +1,20 @@
-# Halo semua! 
+# Hi Everyone! 👋
 
-Perkenalkan nama saya **Elisa Bunga Daniar**.
+Let me introduce myself, my name is **Elisa Bunga Daniar**, but you can call me **Lisa**.
 
-Saya seorang **Mahasiswa Teknik Informatika** di [UIN SYARIF HIDAYATULLAH JAKARTA].
+If you're interested in getting to know me, feel free to follow my [LinkedIn](https://www.linkedin.com/in--/) account!
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in--/)ku ya.
+---
+
+## About Me
+
+- 🌱 I’m currently learning new technologies and improving my skills.
+- 💼 I’m looking for opportunities in Project Management, Web Development, Android Development, and Design.
+- 📫 How to reach me: @lisadanr on Instagram! 
+
+---
+
+## GitHub Stats
 
 <p align="left">
 <a href="https://github.com/lisaadnr">
@@ -12,3 +22,13 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+---
+
+
+## Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/lisadnr/)
+- [GitHub](https://github.com/lisaadnr)
+
+Thank you for visiting my profile! 😊
