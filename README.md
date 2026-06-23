@@ -9,7 +9,7 @@ If you're interested in getting to know me, feel free to follow my [LinkedIn](ht
 ## About Me
 
 - 🌱 I’m currently learning new technologies and improving my skills.
-- 💼 I’m looking for opportunities in Project Management, Web Development, Android Development, and Design.
+- 💼 I’m looking for opportunities in Project Management, System Design and Analysis, and Android Development.
 - 📫 How to reach me: @lisadanr on Instagram! 
 
 ---
